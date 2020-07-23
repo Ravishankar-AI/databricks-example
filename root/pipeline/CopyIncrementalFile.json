@@ -97,10 +97,10 @@
 				},
 				"userProperties": [],
 				"typeProperties": {
-					"notebookPath": "/Users/ravishankar.rajalingam@databricks.com"
+					"notebookPath": "/Users/ravishankar.rajalingam@databricks.com/onsemi/update_customer"
 				},
 				"linkedServiceName": {
-					"referenceName": "AzureDatabricksEast",
+					"referenceName": "AzureDatabricks1",
 					"type": "LinkedServiceReference"
 				}
 			}
